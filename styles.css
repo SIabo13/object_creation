@@ -1,0 +1,43 @@
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.circle {
+  display: block;
+  margin: auto;
+  border-radius: 100%;
+}
+
+.square {
+  display: block;
+  margin: auto;
+}
+
+.sm {
+  width: 100px;
+  height: 100px;
+}
+
+.md {
+  width: 200px;
+  height: 200px;
+}
+
+.lg {
+  width: 300px;
+  height: 300px;
+}
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,14 @@
+{
+  "name": "object_creation",
+  "version": "1.0.0",
+  "description": "create circles and squares",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.26.9"
+  }
+}
